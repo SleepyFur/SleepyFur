@@ -38,6 +38,12 @@ I believe that I hold a variety of strengths, including:
 - Cybersecurity Enthusiast – I actively practice and engage with tools like Wireshark and Kali Linux, and I’m working toward professional certifications to solidify my knowledge.
 - Creative + Technical Blend – I balance development with creativity, applying both logical thinking and design sensibility to my projects.
 
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> (Pending)
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?&style=for-the-badge&logo=google&logoColor=white" /> (Pending)
+</div>
+
 ## Tools
 
 ### Network
@@ -52,8 +58,3 @@ I believe that I hold a variety of strengths, including:
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> (Pending)
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?&style=for-the-badge&logo=google&logoColor=white" /> (Pending)
-</div>
