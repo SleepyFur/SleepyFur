@@ -21,7 +21,6 @@ I am an adaptable and curious learner with a strong foundation in computing and 
 My goal is to apply these strengths within a Security Operations Center or security analyst role, where I can help organizations achieve their security objectives by detecting threats, improving defenses, and protecting critical assets.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
