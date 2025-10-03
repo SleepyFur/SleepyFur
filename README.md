@@ -1,4 +1,4 @@
-# Hello, I'm SleepyFur
+# Hello, I'm Vyxen
 
 I’m a passionate learner with a strong interest in computing and cybersecurity. I enjoy building practical projects — from Node.js bots and client websites to experimenting with AI models and VRChat world design. My curiosity drives me to explore both the creative and technical sides of technology, giving me a unique perspective on problem-solving. Currently, I’m working toward professional cybersecurity certifications to strengthen my skills and prepare for a career in the field.
 
