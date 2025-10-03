@@ -57,8 +57,3 @@ I believe that I hold a variety of strengths, including:
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> (Pending)
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?&style=for-the-badge&logo=google&logoColor=white" /> (Pending)
 </div>
-
-## Projects
-
-- Sylvia
-- Trauma Therapy For You
