@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | Programming and automation          | Sylvia |
 | Experience with SQL (Front + Backend) | Sylvia |
-| Website Development and Maintenance | <a href="https://traumatherapyforyou.com"Trauma Therapy For You</a> |
+| Website Development and Maintenance | <a href="https://traumatherapyforyou.com">Trauma Therapy For You</a> |
 
 ## Tools
 
