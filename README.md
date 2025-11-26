@@ -24,6 +24,7 @@ My goal is to apply these strengths within a Security Operations Center or secur
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Conduct Security Audits          | <a href="https://github.com/SleepyFur/Demonstrations/tree/main/Security%20Audits">Audits</a> |
 | Programming and automation          | <a href="https://github.com/SleepyFur/Sylvia">Sylvia</a> |
 | Experience with SQL (Front + Backend) | <a href="https://github.com/SleepyFur/Sylvia">Sylvia</a> |
 | Website Development and Maintenance | <a href="https://traumatherapyforyou.com">Trauma Therapy For You</a> |
